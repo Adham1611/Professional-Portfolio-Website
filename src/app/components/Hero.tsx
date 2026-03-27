@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "motion/react";
 import { ChevronRight, Download, Github, Linkedin, Mail } from "lucide-react";
-import adhamImage from "figma:asset/fbc32cb67ec8dd6b22c23e683f479fb2ce8c1909.png";
+import adhamImage from "../../assets/fbc32cb67ec8dd6b22c23e683f479fb2ce8c1909.png";
 
 export default function Hero() {
   return (
