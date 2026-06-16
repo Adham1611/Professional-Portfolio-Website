@@ -43,7 +43,7 @@ export default function Hero() {
                 <ChevronRight className="w-5 h-5" />
               </a>
               <a
-                href="https://drive.google.com/file/d/1-imEr6_k48OxZC2AR8rakBQZ2p_Nllj-/view?usp=sharing"
+                href="https://drive.google.com/file/d/1zllLGEKnYolRVvoHnMJ6L_vWmR39vdeI/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-white text-gray-700 border-2 border-gray-200 px-6 py-3 rounded-full font-medium hover:border-indigo-600 hover:text-indigo-600 transition-all active:scale-95"
